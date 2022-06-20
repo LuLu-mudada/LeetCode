@@ -34,7 +34,7 @@ public:
     }
 };
 
-int main()
+int main567856856()
 {
 	Solution slt;
 
